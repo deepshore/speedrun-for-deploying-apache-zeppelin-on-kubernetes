@@ -67,7 +67,7 @@ A script is included for deploying Postgres:
 
 ```bash
 cd ../../kubernetes
-./deploy-postgres.sh
+./deploy-postgresql.sh
 ```
 
 ## Deploy Zeppelin
